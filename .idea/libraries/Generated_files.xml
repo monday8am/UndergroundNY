@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/ts/definitions/backbone/backbone-tests.js" />
+        <item url="file://$PROJECT_DIR$/ts/models/models.js" />
+        <item url="file://$PROJECT_DIR$/ts/utils.js" />
+        <item url="file://$PROJECT_DIR$/ts/app.js" />
+        <item url="file://$PROJECT_DIR$/ts/views.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ts/definitions/backbone/backbone-tests.js" />
+      <root url="file://$PROJECT_DIR$/ts/models.js" />
+      <root url="file://$PROJECT_DIR$/ts/utils.js" />
+      <root url="file://$PROJECT_DIR$/ts/app.js" />
+      <root url="file://$PROJECT_DIR$/ts/views.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
